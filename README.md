@@ -1,7 +1,7 @@
 <h2> Hi, I'm Elizaveta! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 Junior backend developer focused on **Java and Spring Boot**.
-I build REST APIs and learn backend architecture through pet projects.</p>
+I build REST APIs and learn backend architecture through pet projects.
 Also familiar with **C#/.NET** from previous study projects.
 Currently looking for my first commercial role as a Java developer.
 <br>
