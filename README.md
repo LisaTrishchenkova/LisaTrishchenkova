@@ -1,4 +1,4 @@
-# Hi, I'm Elizabeth 👋
+# Hi, I'm Elizaveta 👋
 
 Junior backend developer focused on **Java and Spring Boot**.
 I build REST APIs and learn backend architecture through pet projects.
