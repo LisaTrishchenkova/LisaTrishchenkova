@@ -5,7 +5,6 @@ I build REST APIs and learn backend architecture through pet projects.
 Also familiar with **C#/.NET** from previous study projects.
 Currently looking for my first commercial role as a Java developer.
 <br>
-<br>
 
 ## 💻 Tech Stack
 **Main:** Java, Spring Boot, Spring Data JPA, Hibernate, PostgreSQL, Maven, RabbitMQ
