@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Elizabeth 👋
 
-<!--
-**LisaTrishchenkova/LisaTrishchenkova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior backend developer focused on **Java and Spring Boot**.
+I build REST APIs and learn backend architecture through pet projects.
+Also familiar with **C#/.NET** from previous study projects.
+Currently looking for my first commercial role as a Java developer.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+**Main:** Java, Spring Boot, Spring Data JPA, Hibernate, PostgreSQL, Maven
+**Also:** C#, .NET, Git, Docker, REST, SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [mail-service](https://github.com/LisaTrishchenkova/mail-service) | Microservice for async email and OTP sending via RabbitMQ, with HTML templates | Java, Spring Boot, PostgreSQL, Docker, RabbitMQ |
+| [voxfox-backend](https://github.com/LisaTrishchenkova/voxfox-backend) | Graduation project: e-learning platform (backend). Frontend in a separate repo | C#, ASP.NET Core |
+
+## 📫 Contact
+[Telegram](https://t.me/Lisa1616) • [Email](mailto:echernenko090@gmail.com)
