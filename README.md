@@ -31,10 +31,11 @@ Currently looking for my first commercial role as a Java developer.
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [mail-service](https://github.com/LisaTrishchenkova/mail-service) | Microservice for async email and OTP sending via RabbitMQ, with HTML templates | Java, Spring Boot, PostgreSQL, Docker, RabbitMQ |
-| [aurix-backend](https://github.com/LisaTrishchenkova/aurix-backend) | Graduation project: e-learning platform (backend). Frontend in a separate repo | C#, ASP.NET Core |
+| [aurix-backend](https://github.com/LisaTrishchenkova/aurix-backend) | Graduation project: e-learning platform (backend). | C#, ASP.NET Core |
+| [aurix-frontend](https://github.com/LisaTrishchenkova/aurix-frontend) | Graduation project: e-learning platform (frontend). React, TypeScript, Vite | TypeScript, React, Vite |
 <br>
 
 ## 📫 Contact
-[Telegram](https://t.me/Lisa1616) • [Email](mailto:echernenko090@gmail.com)
+[Telegram](https://t.me/Lisa1616) • [Email](mailto:ecernenko090@gmail.com)
 
 </div>
